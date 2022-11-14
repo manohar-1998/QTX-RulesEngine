@@ -1,0 +1,11 @@
+# Editor configuration files
+.vscode
+
+# 3rd Party NPM modules
+node_modules
+
+# Environment variable files
+.env
+
+# Log files
+*.log
